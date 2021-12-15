@@ -1,5 +1,4 @@
 - 👋 Hi. I'm Felipe. Also Known as Voicot.
-- 👀 
 - 🌱 I’m currently learning C++, Python, Lua. 
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me: Discord: Kaczynski#7341
