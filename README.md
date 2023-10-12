@@ -6,9 +6,6 @@ Welcome. This repository contains a diverse collection of projects in the fields
 
 - [Introduction](#introduction)
 - [Projects](#projects)
-- [Getting Started](#getting-started)
-- [Contributing](#contributing)
-- [License](#license)
 
 ## Introduction
 
