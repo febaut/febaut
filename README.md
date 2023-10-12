@@ -48,6 +48,7 @@ Below is a list of some notable projects and categories in this repository. Clic
 
 1. [Web Scraping with BeautifulSoup](./other/web-scraping-beautifulsoup/): Examples and utilities for web scraping using BeautifulSoup.
 
+##
 
 Enjoy exploring and contributing to this collection of projects! If you have any questions or need assistance, feel free to reach out to the repository maintainer or open an issue.
 
