@@ -1,4 +1,4 @@
-# NLP, Linguistics, Data Science, and Programming Projects
+# NLP | Linguistics | Data Science
 
 This repository contains a diverse collection of projects in the fields of Natural Language Processing (NLP), Linguistics, Data Science, Programming, and more. This repository is a showcase of various projects and code examples that cover a wide range of topics and interests. Whether you're a seasoned developer, a linguist, a data scientist, or just a curious learner, I hope you find something interesting here.
 
